@@ -1,6 +1,8 @@
 # hqreg
 Fit a robust regression model with Huber or quantile loss penalized by lasso or elasti-net Use hqreg With (In) R Software
 
+https://www.youtube.com/watch?v=AEYjhvxzdpo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
